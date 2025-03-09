@@ -1,6 +1,14 @@
 # Daily Task Manager Assignment Report
 ## Vivian Wijaya/080602241002
 
+Untuk dapat menghasilkan/menjalankan program di atas saya menggunakan
+
+· JDK : OpenJDK 21.0.6
+
+· IDE : Visual Studio Code
+
+· Version Control : Git
+
 Jadi Pada program kali ini saya telah membuat Daily Task Manager dimana output nya berupa
 
 1. View Task (Array)
